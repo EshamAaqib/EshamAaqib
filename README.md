@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Systems and Network Engineering, Linux Administration and DevOps Engineering**
 
-- 📫 How to reach me **aaqibesham@gmail.com**
+- 📫 How to reach me **me@eshamaaqib.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
