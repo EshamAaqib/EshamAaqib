@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Esham Aaqib</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Computer Systems and Network Engineering, Linux Administration and DevOps Engineering**
 
