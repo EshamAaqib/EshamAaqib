@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning **Computer Systems and Network Engineering, Linux Administration and DevOps Engineering**
 
+- 🧑‍💻 I'm currently working as an Intern DevOps Engineer at H2O.ai
+
 - 📫 How to reach me **me@eshamaaqib.me**
 
 
