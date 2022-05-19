@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Esham Aaqib</h1>
 - 🌱 I’m currently learning **Computer Systems and Network Engineering, Linux Administration and DevOps Engineering**
 
-- 👨‍💻 I'm currently working as an Intern DevOps Engineer at H2O.ai
+- 👨‍💻 I'm currently working as an Intern DevOps Engineer at (H2O.ai)[h2o.ai]
 
 - 📫 How to reach me **me@eshamaaqib.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eshamaaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshamaaqib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshamaaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshamaaqib" height="30" width="40" /></a>
 </p>
 
