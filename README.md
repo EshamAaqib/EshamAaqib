@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Esham Aaqib</h1>
-- 🌱 I’m currently learning **Computer Systems and Network Engineering, Linux Administration and DevOps Engineering**
-
 - 👨‍💻 I'm currently working as a DevOps Engineer at [H2O.ai](http://h2o.ai/)
 
 - 📫 How to reach me **me@eshamaaqib.me**
