@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esham Aaqib</h1>
-- 👨‍💻 I'm currently working as a DevOps Engineer at [H2O.ai](http://h2o.ai/)
+- 👨‍💻 I'm currently working as a DevOps Engineer at H2O.ai
 
 - 📫 How to reach me **me@eshamaaqib.me**
 
