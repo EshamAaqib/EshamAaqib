@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshamaaqib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eshamaaqib.me)
-![Profile Views](https://komarev.com/ghpvc/?username=eshamaaqib&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=EshamAaqib&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -94,12 +94,12 @@ Platform engineering for AI/ML workloads on Kubernetes, multi-tenant AWS infrast
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshamaaqib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshamaaqib&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EshamAaqib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=EshamAaqib&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshamaaqib&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EshamAaqib&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
