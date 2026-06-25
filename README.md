@@ -22,10 +22,10 @@
 
 ```yaml
 name: Esham Aaqib
-role: Platform Engineer
+role: Senior Cloud DevOps Engineer
 mission: Building production-grade AI/ML infrastructure on Kubernetes
 focus:
-  - AI/ML Platform Engineering (Generative, Predictive & Agentic AI)
+  - AI/ML Senior Cloud DevOps Engineering (Generative, Predictive & Agentic AI)
   - Multi-Tenant AWS Architecture
   - Cloud Security & Automation
   - Infrastructure as Code at Scale
@@ -33,7 +33,7 @@ philosophy: "Automate everything, secure by default, scale with confidence"
 ```
 
 ### 🔧 What I Do
-Platform engineering for AI/ML workloads on Kubernetes, multi-tenant AWS infrastructure, and cloud automation with Terraform, Istio, and GitOps pipelines.
+Platform Engineering for AI/ML workloads on Kubernetes, multi-tenant AWS infrastructure, and cloud automation with Terraform, Istio, and GitOps pipelines.
 
 ---
 
