@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Esham%20Aaqib&fontSize=42&fontAlignY=30&desc=Platform%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20AI%2FML%20on%20K8s&descAlignY=51&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Esham%20Aaqib&fontSize=42&fontAlignY=30&desc=Senior%20Cloud%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20AI%2FML%20on%20K8s&descAlignY=51&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Platform+Engineer;Building+AI%2FML+Infrastructure+on+K8s;Multi-Tenant+AWS+%7C+EKS+%7C+Terraform;Automating+Cloud+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Senior+Cloud+DevOps+Engineer;Building+AI%2FML+Infrastructure+on+K8s;Multi-Tenant+AWS+%7C+EKS+%7C+Terraform;Automating+Cloud+at+Scale)](https://git.io/typing-svg)
 
 </div>
 
